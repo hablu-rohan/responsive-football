@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 /*****************************top-section-style********************************/
-.top-section{
+#top-section{
     margin: 0;
     padding: 0;
     background-color: #2D25A0;
@@ -14,24 +14,27 @@
     margin-right:140px;
     height:677px;
 }
+
 .left-in-top{
     padding-top: 207px;
+    margin-right:102px;
 }
 .left-in-top h1{
+    width:485px;
     font-size:64px;
     line-height: 80px;
     margin-bottom: 27px;
 }
-.left-in-top a{
+.watch-live{
     color: white;
     text-decoration: none;
     background-color: #E02C6D;
     padding:10px 24px;
-
+    
 }
-.left-in-top a:hover{
+.watch-live:hover{
     background-color: #25a044;
-    transition: all 1s ease 0s;
+    transition: all 1.5s ease 0s;
 }
 .right-in-top{
     justify-content: flex-end;
