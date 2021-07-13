@@ -1,0 +1,21 @@
+footer{
+    margin-top:100px;
+    margin-left:475px;
+    margin-right:482px;
+}
+.top-footer img{
+    width:483px;
+
+}
+.middle-footer{
+    text-align: center;
+    color:gray;
+}
+.middle-footer i{
+    margin-right:22px;
+}
+.bottom-footer{
+    margin-top:20px;
+    margin-bottom:63px;
+    text-align: center;
+}

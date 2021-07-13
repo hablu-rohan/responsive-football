@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 main{
     display: flex;
     justify-content: center;
@@ -9,8 +10,8 @@ main{
     grid-row-gap:27px;
     grid-column-gap:45px;
     margin-top: 70px;
-    margin-left:180px;
-    margin-right:210px;
+
+   
 }
 
 .blogs{
@@ -24,7 +25,6 @@ main{
 .middle-section-container img{
     width:100%;
     height:256px;
-    
 }
 
 .bottom h2{
