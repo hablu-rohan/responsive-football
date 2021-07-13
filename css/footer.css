@@ -10,9 +10,14 @@ footer{
 .middle-footer{
     text-align: center;
     color:gray;
+   
 }
 .middle-footer i{
-    margin-right:22px;
+    margin-right:23px;
+   
+    font-size: 20px;
+    border-radius: 5px;
+    padding:0 5px;
 }
 .bottom-footer{
     margin-top:20px;
