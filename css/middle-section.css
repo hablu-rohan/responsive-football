@@ -2,11 +2,12 @@
 main{
     display: flex;
     justify-content: center;
-  
 }
 .middle-section-container{
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    grid-row-gap:27px;
+    grid-column-gap:45px;
     margin-top: 70px;
     margin-left:180px;
     margin-right:210px;
@@ -15,7 +16,6 @@ main{
 .blogs{
     width:315px;
     height:474px;
-    margin-right: 45px;
 }
 .common-design{
     padding:15px;
@@ -26,7 +26,7 @@ main{
     height:256px;
     
 }
-.bottom{}
+
 .bottom h2{
     margin-top:16px;
     font-size: 28px;
