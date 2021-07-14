@@ -1,8 +1,35 @@
 .extra-section{
-    color:black;
-    position: relative;
+    margin-left:115px;
 }
-.extra-section-container  img{
-   width: 30%;
-   height:100%;
+.extra-section-container{
+    margin-top:50px;
+    display: flex;
+}
+table{
+    border-collapse: collapse;
+}
+table th,td{
+    border:1px solid;
+    padding:5px 20px;
+}
+thead th{
+    background-color: #00A8FF;
+}
+.left{
+    margin-right: 50px;
+}
+.right{
+    width:500px;
+    color:silver;
+}
+.right button{
+    width:100%;
+    padding:5px 15px;
+    border-radius: 10px;
+    background-color: gray;
+    color:silver;
+    cursor: pointer;
+}
+.right button:hover{
+   background-color: #10437A;
 }
