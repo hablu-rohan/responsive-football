@@ -1,10 +1,9 @@
-.extra-section{
-    margin-left:115px;
-}
+
 .extra-section-container{
     margin-top:50px;
     display: grid;
     grid-template-columns: repeat(2,1fr);
+    margin-left: 270px;
 }
 table{
     border-collapse: collapse;
@@ -24,7 +23,7 @@ thead th{
     color:silver;
 }
 .right button{
-    width:100%;
+    width:75%;
     padding:5px 15px;
     border-radius: 10px;
     background-color: #11171C;
