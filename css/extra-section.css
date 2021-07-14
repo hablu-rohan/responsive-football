@@ -32,3 +32,7 @@ thead th{
 .right button:hover{
    background-color: #10437A;
 }
+.highlight-gray{
+    background-color: gray;
+    color:white;
+}
