@@ -3,7 +3,8 @@
 }
 .extra-section-container{
     margin-top:50px;
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
 }
 table{
     border-collapse: collapse;
@@ -19,14 +20,14 @@ thead th{
     margin-right: 50px;
 }
 .right{
-    width:500px;
+    width:80%;
     color:silver;
 }
 .right button{
     width:100%;
     padding:5px 15px;
     border-radius: 10px;
-    background-color: gray;
+    background-color: #11171C;
     color:silver;
     cursor: pointer;
 }

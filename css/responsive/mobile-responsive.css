@@ -1,0 +1,32 @@
+@media only screen and (max-width:768px) and (min-width:500px){
+    .top-section-container{
+        margin-right:0px;
+        margin-left: 0px;
+        display: block;
+    }
+    
+    .middle-section-container{
+        display: block;
+       
+        
+    }
+    .blogs{
+        margin-bottom: 20px;
+    }
+   .extra-section{
+       margin-left:20px;
+   
+   }
+   
+   .left{
+       width:50%;
+       margin-right:0px;
+   }
+    .extra-section-container{
+        display: block;
+    }
+    footer{
+        margin-right:0px;
+        margin-left:0px;
+    }
+}

@@ -9,11 +9,10 @@
 }
 
 .top-section-container{
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
     margin-left:156px;
     margin-right:140px;
-    height:677px;
 }
 
 .left-in-top{
